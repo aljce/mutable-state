@@ -1,0 +1,6 @@
+[package]
+name = "mutable-state"
+version = "0.1.0"
+authors = ["Kyle McKean <mckean.kylej@gmail.com>"]
+
+[dependencies]
